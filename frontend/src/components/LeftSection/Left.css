@@ -8,19 +8,40 @@
   text-align: center;
   justify-content: center;
 
+}
+
+.kyr {
+  width: 418px;
+  height: 67px;
+  margin: 0 524px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 44.5842px;
+}
+
+.pl {
+  width: 447px;
+  height: 80px;
+  margin: auto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 53.5011px;
+  color: #DC1F27;
+}
+
+.paragraphs p {
+  margin-bottom: 10px;
+}
+
+/* Media Queries for responsiveness */
+
+@media only screen and (max-width: 768px) {
+
+  /* Styles for tablets and smaller devices */
+  .left-section {
+    width: 100%;
+    /* Take full width on smaller screens */
+    padding: 10px;
+    /* Adjust padding for smaller screens */
   }
-  
-  .paragraphs p {
-    margin-bottom: 10px;
-  }
-  
-  /* Media Queries for responsiveness */
-  
-  @media only screen and (max-width: 768px) {
-    /* Styles for tablets and smaller devices */
-    .left-section {
-      width: 100%; /* Take full width on smaller screens */
-      padding: 10px; /* Adjust padding for smaller screens */
-    }
-  }
-  
+}
