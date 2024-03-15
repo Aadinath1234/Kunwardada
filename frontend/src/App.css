@@ -21,9 +21,8 @@
 .content-text {
   width: 100%;
   /* Take full width */
-  max-width: 575px;
-  margin: 0 30px;
-
+  max-width: 800px;
+  margin: 0 auto;
   /* Center align horizontally */
 }
 

@@ -4,18 +4,23 @@ import "./Left.css"; // CSS file for styling
 function LeftSection() {
   return (
     <div className="left-section">
-      <p className="kyr">Know your Rights &</p>
-      <h2 className="pl">Live Peaceful life</h2>
+      <h2>About Us</h2>
       <div className="paragraphs">
         <p>
-          Constitution provide us many rights and we don’t
-          know what are our rights due to which some times
-          we tolerate the wrong things. But after that don’t
-          need to tolerate wrong people and wrong things
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+          scelerisque nisl auctor, fermentum turpis id, feugiat ligula. Nulla
+          facilisi. Integer non leo eget odio efficitur fermentum. Maecenas
+          quis libero et eros posuere rhoncus. Ut laoreet convallis
+          pellentesque. Phasellus sollicitudin nulla ut elit ultrices
+          ullamcorper.
         </p>
         <p>
-        Understanding your rights empowers you to lead a tranquil life. Knowledge of your rights ensures fairness, protects against injustice, and promotes harmony in society. By respecting others' rights and asserting your own, you contribute to a peaceful coexistence where everyone can thrive and live without fear or discrimination.
-      </p>
+          Pellentesque habitant morbi tristique senectus et netus et malesuada
+          fames ac turpis egestas. Fusce in turpis vitae lorem pretium
+          convallis. Vestibulum eu turpis quis libero commodo varius. Etiam
+          convallis justo eget nisi scelerisque, ut placerat magna sodales.
+          Mauris in massa eu metus luctus feugiat.
+        </p>
       </div>
     </div>
   );

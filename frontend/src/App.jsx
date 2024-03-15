@@ -62,7 +62,7 @@
 
 
 
-import React, { useState } from 'react';
+import React,{useState} from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Card from './components/Cards/Card';
@@ -79,12 +79,12 @@ function App() {
 
       <section className="content-section">
         <Card />
-
+       
 
         <div className="content-text">
-          <h1>Welcome to Our LegalBodh</h1>
+          <h1>Welcome to Our website Legal Awareness</h1>
           <p>
-            Connect with us, we all are family and make life easy.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum consequat ex, tempus.
           </p>
           <button className="explore-button">
             Explore
@@ -166,8 +166,8 @@ function App() {
 
 
           <div className="boxxx">
-
-
+               
+                 
 
 
           </div>
